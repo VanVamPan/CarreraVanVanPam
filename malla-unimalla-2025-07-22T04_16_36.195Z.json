@@ -1,0 +1,706 @@
+{
+  "mallaData": [
+    {
+      "año": 1,
+      "periodo": "anual",
+      "materias": []
+    },
+    {
+      "año": 1,
+      "periodo": "Semestre 1",
+      "materias": [
+        {
+          "id": "d4c88e6c-050c-4a37-9712-6451d1b2c3a5",
+          "nombre": "Calculo 1",
+          "tipo": "ninguno",
+          "requisitos": [],
+          "creditos": 0,
+          "requiereCreditos": 0
+        },
+        {
+          "id": "66b65a2f-2f55-40b1-9cb1-f6480432308e",
+          "nombre": "Física 1",
+          "tipo": "ninguno",
+          "requisitos": [],
+          "creditos": 0,
+          "requiereCreditos": 0
+        },
+        {
+          "id": "fed1d82d-8875-4349-b7b6-51cd600fa417",
+          "nombre": "Dibujo 1",
+          "tipo": "ninguno",
+          "requisitos": [],
+          "creditos": 0,
+          "requiereCreditos": 0
+        },
+        {
+          "id": "bd9df97d-221c-46fe-b160-0dfbd58f6c3c",
+          "nombre": "Inglés 1",
+          "tipo": "ninguno",
+          "requisitos": [],
+          "creditos": 0,
+          "requiereCreditos": 0
+        },
+        {
+          "id": "031e4d61-2244-42af-b0b0-87f3026bb434",
+          "nombre": "Dla",
+          "tipo": "ninguno",
+          "requisitos": [],
+          "creditos": 0,
+          "requiereCreditos": 0
+        },
+        {
+          "id": "5b4a6220-285b-44ee-af98-c8810e9c81b3",
+          "nombre": "Geografía ",
+          "tipo": "ninguno",
+          "requisitos": [],
+          "creditos": 0,
+          "requiereCreditos": 0
+        }
+      ]
+    },
+    {
+      "año": 1,
+      "periodo": "Semestre 2",
+      "materias": [
+        {
+          "id": "436937bd-c928-4afa-9bfc-d8e45ccc17ca",
+          "nombre": "Quimica ",
+          "tipo": "ninguno",
+          "requisitos": [],
+          "creditos": 0,
+          "requiereCreditos": 0
+        },
+        {
+          "id": "994eaf44-9352-481e-8f39-2e26b82fb38b",
+          "nombre": "Comunicación oral y escrita ",
+          "tipo": "ninguno",
+          "requisitos": [],
+          "creditos": 0,
+          "requiereCreditos": 0
+        },
+        {
+          "id": "414099f4-cce4-478b-bf4f-42e08ea09696",
+          "nombre": "Física 2",
+          "tipo": "ninguno",
+          "requisitos": [
+            "66b65a2f-2f55-40b1-9cb1-f6480432308e"
+          ],
+          "creditos": 0,
+          "requiereCreditos": 0
+        },
+        {
+          "id": "5badcd27-c7bd-4146-af0c-bca442e7a96b",
+          "nombre": "Calculo 2",
+          "tipo": "ninguno",
+          "requisitos": [
+            "d4c88e6c-050c-4a37-9712-6451d1b2c3a5"
+          ],
+          "creditos": 0,
+          "requiereCreditos": 0
+        },
+        {
+          "id": "dbe5b0b1-325a-49c1-8268-34327d0f3c50",
+          "nombre": "Calculo 3",
+          "tipo": "ninguno",
+          "requisitos": [
+            "d4c88e6c-050c-4a37-9712-6451d1b2c3a5"
+          ],
+          "creditos": 0,
+          "requiereCreditos": 0
+        },
+        {
+          "id": "ab59297e-602e-4062-ae5c-a2335be3b261",
+          "nombre": "Inglés 2",
+          "tipo": "ninguno",
+          "requisitos": [
+            "bd9df97d-221c-46fe-b160-0dfbd58f6c3c"
+          ],
+          "creditos": 0,
+          "requiereCreditos": 0
+        }
+      ]
+    },
+    {
+      "año": 2,
+      "periodo": "anual",
+      "materias": []
+    },
+    {
+      "año": 2,
+      "periodo": "Semestre 1",
+      "materias": [
+        {
+          "id": "49e4d028-28e4-4e44-8fa7-fb99a27cb355",
+          "nombre": "Ecuaciónes dif",
+          "tipo": "ninguno",
+          "requisitos": [
+            "5badcd27-c7bd-4146-af0c-bca442e7a96b"
+          ],
+          "creditos": 0,
+          "requiereCreditos": 0
+        },
+        {
+          "id": "9c9377f8-5358-4e48-be7d-3e3c515698e8",
+          "nombre": "Tecnología de inf. Y com. 🗨️",
+          "tipo": "ninguno",
+          "requisitos": [],
+          "creditos": 0,
+          "requiereCreditos": 0
+        },
+        {
+          "id": "7ed0bc90-8830-4ff4-af94-951919094779",
+          "nombre": "Estadísticas aplicada ",
+          "tipo": "ninguno",
+          "requisitos": [],
+          "creditos": 0,
+          "requiereCreditos": 0
+        },
+        {
+          "id": "a0d32184-0431-4f09-b34d-f9508f632cb5",
+          "nombre": "Interacción 🧑‍💻  🤖💻",
+          "tipo": "ninguno",
+          "requisitos": [],
+          "creditos": 0,
+          "requiereCreditos": 0
+        },
+        {
+          "id": "c355a646-a784-4103-a5c0-14c9b04f2ff3",
+          "nombre": "Lenguaje de prog. 1",
+          "tipo": "ninguno",
+          "requisitos": [
+            "031e4d61-2244-42af-b0b0-87f3026bb434"
+          ],
+          "creditos": 0,
+          "requiereCreditos": 0
+        },
+        {
+          "id": "36dfac28-eb9a-4e5b-b529-0f0d672bbf6d",
+          "nombre": "Estructuras discretas",
+          "tipo": "ninguno",
+          "requisitos": [
+            "031e4d61-2244-42af-b0b0-87f3026bb434"
+          ],
+          "creditos": 0,
+          "requiereCreditos": 0
+        }
+      ]
+    },
+    {
+      "año": 2,
+      "periodo": "Semestre 2",
+      "materias": [
+        {
+          "id": "c1bc6a4c-fef9-4185-87da-2cdff4f09132",
+          "nombre": "Matsup",
+          "tipo": "ninguno",
+          "requisitos": [
+            "49e4d028-28e4-4e44-8fa7-fb99a27cb355"
+          ],
+          "creditos": 0,
+          "requiereCreditos": 0
+        },
+        {
+          "id": "9280edb9-4dd5-4b76-be9c-09d7fe472b3f",
+          "nombre": "Sistemas colaborativos ",
+          "tipo": "ninguno",
+          "requisitos": [],
+          "creditos": 0,
+          "requiereCreditos": 0
+        },
+        {
+          "id": "18a380a7-a40a-427e-9597-7a52bd8006ef",
+          "nombre": "Met. Num. para ing. ",
+          "tipo": "ninguno",
+          "requisitos": [
+            "49e4d028-28e4-4e44-8fa7-fb99a27cb355",
+            "dbe5b0b1-325a-49c1-8268-34327d0f3c50"
+          ],
+          "creditos": 0,
+          "requiereCreditos": 0
+        },
+        {
+          "id": "c98bea73-b04d-4265-93d4-cc8f785de32b",
+          "nombre": "Estructura de datos ",
+          "tipo": "ninguno",
+          "requisitos": [
+            "c355a646-a784-4103-a5c0-14c9b04f2ff3"
+          ],
+          "creditos": 0,
+          "requiereCreditos": 0
+        },
+        {
+          "id": "6d842f15-c7c6-4dd3-8e24-f5dba775f080",
+          "nombre": "Probabilidad aplicada ",
+          "tipo": "ninguno",
+          "requisitos": [
+            "7ed0bc90-8830-4ff4-af94-951919094779"
+          ],
+          "creditos": 0,
+          "requiereCreditos": 0
+        },
+        {
+          "id": "f278d794-7fb3-4e1b-97ea-8dbd4618ed94",
+          "nombre": "Lenguaje de prog. 2",
+          "tipo": "ninguno",
+          "requisitos": [
+            "c355a646-a784-4103-a5c0-14c9b04f2ff3"
+          ],
+          "creditos": 0,
+          "requiereCreditos": 0
+        },
+        {
+          "id": "47c9cec1-2e6d-496b-b900-eb4c68886ea0",
+          "nombre": "Sistemas de info. 1",
+          "tipo": "ninguno",
+          "requisitos": [
+            "9c9377f8-5358-4e48-be7d-3e3c515698e8"
+          ],
+          "creditos": 0,
+          "requiereCreditos": 0
+        }
+      ]
+    },
+    {
+      "año": 2,
+      "periodo": "Verano ",
+      "materias": [
+        {
+          "id": "23b6d853-f268-429e-9c0b-5270a2ec53a4",
+          "nombre": "Historia ",
+          "tipo": "ninguno",
+          "requisitos": [],
+          "creditos": 0,
+          "requiereCreditos": 0
+        },
+        {
+          "id": "1deda95d-b84c-49cc-9b87-2212ec6d66b5",
+          "nombre": "Ambiente y sostenibilidad ",
+          "tipo": "ninguno",
+          "requisitos": [],
+          "creditos": 0,
+          "requiereCreditos": 0
+        }
+      ]
+    },
+    {
+      "año": 3,
+      "periodo": "anual",
+      "materias": []
+    },
+    {
+      "año": 3,
+      "periodo": "Semestre 1",
+      "materias": [
+        {
+          "id": "3b3ded5d-a2a8-43c3-bacb-02e24a5d3a25",
+          "nombre": "Base de datos 1",
+          "tipo": "ninguno",
+          "requisitos": [
+            "c98bea73-b04d-4265-93d4-cc8f785de32b"
+          ],
+          "creditos": 0,
+          "requiereCreditos": 0
+        },
+        {
+          "id": "c9cf9dd7-18c3-4c5e-afe5-c13e7efa8489",
+          "nombre": "Ing. De software 1",
+          "tipo": "ninguno",
+          "requisitos": [],
+          "creditos": 0,
+          "requiereCreditos": 0
+        },
+        {
+          "id": "89086cad-43b4-418a-9cc0-c8ea4f32560d",
+          "nombre": "Lenguaje de prog 3",
+          "tipo": "ninguno",
+          "requisitos": [
+            "f278d794-7fb3-4e1b-97ea-8dbd4618ed94"
+          ],
+          "creditos": 0,
+          "requiereCreditos": 0
+        },
+        {
+          "id": "f363d7d1-26bd-4bad-945d-058ac951c162",
+          "nombre": "Org. Y Arq. de 💻",
+          "tipo": "ninguno",
+          "requisitos": [
+            "9c9377f8-5358-4e48-be7d-3e3c515698e8"
+          ],
+          "creditos": 0,
+          "requiereCreditos": 0
+        },
+        {
+          "id": "f47b4725-702c-426f-bbdd-0316c571d872",
+          "nombre": "Sistemas de info 2",
+          "tipo": "ninguno",
+          "requisitos": [
+            "47c9cec1-2e6d-496b-b900-eb4c68886ea0"
+          ],
+          "creditos": 0,
+          "requiereCreditos": 0
+        },
+        {
+          "id": "ae3455d4-8ebe-4a16-9001-0c79d6916db5",
+          "nombre": "Sistemas contables ",
+          "tipo": "ninguno",
+          "requisitos": [],
+          "creditos": 0,
+          "requiereCreditos": 0
+        },
+        {
+          "id": "97272426-6b3c-4bd4-849c-7d78e7e4dd6d",
+          "nombre": "Met.de la investigación🤢",
+          "tipo": "ninguno",
+          "requisitos": [
+            "6d842f15-c7c6-4dd3-8e24-f5dba775f080"
+          ],
+          "creditos": 0,
+          "requiereCreditos": 0
+        }
+      ]
+    },
+    {
+      "año": 3,
+      "periodo": "Semestre 2",
+      "materias": [
+        {
+          "id": "96a063cf-c907-4d27-8661-b5fee011f0b2",
+          "nombre": "Base de datos 2",
+          "tipo": "ninguno",
+          "requisitos": [
+            "3b3ded5d-a2a8-43c3-bacb-02e24a5d3a25"
+          ],
+          "creditos": 0,
+          "requiereCreditos": 0
+        },
+        {
+          "id": "b3e5d847-a113-4309-9a4d-4f265dfbdb11",
+          "nombre": "Ing de software 2",
+          "tipo": "ninguno",
+          "requisitos": [
+            "c9cf9dd7-18c3-4c5e-afe5-c13e7efa8489"
+          ],
+          "creditos": 0,
+          "requiereCreditos": 0
+        },
+        {
+          "id": "58c10867-40db-4167-bc9f-c9a630acc20e",
+          "nombre": "Leng de prog 4",
+          "tipo": "ninguno",
+          "requisitos": [
+            "89086cad-43b4-418a-9cc0-c8ea4f32560d"
+          ],
+          "creditos": 0,
+          "requiereCreditos": 0
+        },
+        {
+          "id": "59338b54-6c64-48bc-a825-732ef259a5cf",
+          "nombre": "Sistemas operativos ",
+          "tipo": "ninguno",
+          "requisitos": [
+            "f363d7d1-26bd-4bad-945d-058ac951c162"
+          ],
+          "creditos": 0,
+          "requiereCreditos": 0
+        },
+        {
+          "id": "7c24dead-6c4b-475c-903c-81808e858df1",
+          "nombre": "Ing económica ",
+          "tipo": "ninguno",
+          "requisitos": [
+            "ae3455d4-8ebe-4a16-9001-0c79d6916db5"
+          ],
+          "creditos": 0,
+          "requiereCreditos": 0
+        },
+        {
+          "id": "b58b6355-c295-4ea7-b25d-5b9564388d95",
+          "nombre": "Inv de operaciones 1",
+          "tipo": "ninguno",
+          "requisitos": [
+            "7ed0bc90-8830-4ff4-af94-951919094779"
+          ],
+          "creditos": 0,
+          "requiereCreditos": 0
+        }
+      ]
+    },
+    {
+      "año": 4,
+      "periodo": "anual",
+      "materias": []
+    },
+    {
+      "año": 4,
+      "periodo": "Semestre 1",
+      "materias": [
+        {
+          "id": "e07519f4-15eb-4803-b4f2-5033047d0bb9",
+          "nombre": "Inteligencia artificial ",
+          "tipo": "ninguno",
+          "requisitos": [
+            "c98bea73-b04d-4265-93d4-cc8f785de32b"
+          ],
+          "creditos": 0,
+          "requiereCreditos": 0
+        },
+        {
+          "id": "b5100659-5d36-472e-938c-1e48886b5bb7",
+          "nombre": "Inv de operaciones 2",
+          "tipo": "ninguno",
+          "requisitos": [
+            "b58b6355-c295-4ea7-b25d-5b9564388d95"
+          ],
+          "creditos": 0,
+          "requiereCreditos": 0
+        },
+        {
+          "id": "98baca30-2545-4ab4-b938-be37a3216a54",
+          "nombre": "Ing de sist. Dinamicos",
+          "tipo": "ninguno",
+          "requisitos": [
+            "49e4d028-28e4-4e44-8fa7-fb99a27cb355",
+            "97272426-6b3c-4bd4-849c-7d78e7e4dd6d"
+          ],
+          "creditos": 0,
+          "requiereCreditos": 0
+        },
+        {
+          "id": "d85e2c9f-46ff-4f14-b54e-5f2f4820a9c4",
+          "nombre": "Form. de emprendedores ",
+          "tipo": "ninguno",
+          "requisitos": [],
+          "creditos": 0,
+          "requiereCreditos": 0
+        },
+        {
+          "id": "85d28500-d680-4109-94da-dde2b0ae9f87",
+          "nombre": "Redes informáticas",
+          "tipo": "ninguno",
+          "requisitos": [
+            "59338b54-6c64-48bc-a825-732ef259a5cf"
+          ],
+          "creditos": 0,
+          "requiereCreditos": 0
+        },
+        {
+          "id": "30bdfa16-6ea3-493a-8083-dc4669bd4e86",
+          "nombre": "Admin. Fin. 💰",
+          "tipo": "ninguno",
+          "requisitos": [
+            "7c24dead-6c4b-475c-903c-81808e858df1"
+          ],
+          "creditos": 0,
+          "requiereCreditos": 0
+        }
+      ]
+    },
+    {
+      "año": 4,
+      "periodo": "Semestre 2",
+      "materias": [
+        {
+          "id": "cbe894b4-fb30-4676-b899-e32d764ed84c",
+          "nombre": "Tópicos especiales1",
+          "tipo": "ninguno",
+          "requisitos": [],
+          "creditos": 0,
+          "requiereCreditos": 0
+        },
+        {
+          "id": "221035fd-3a85-4938-b697-418c32063368",
+          "nombre": "Simulación de sistemas ",
+          "tipo": "ninguno",
+          "requisitos": [
+            "98baca30-2545-4ab4-b938-be37a3216a54"
+          ],
+          "creditos": 0,
+          "requiereCreditos": 0
+        },
+        {
+          "id": "175af59b-b63b-407e-bd3c-212f6a791c4f",
+          "nombre": "Seguridad informática ",
+          "tipo": "ninguno",
+          "requisitos": [
+            "85d28500-d680-4109-94da-dde2b0ae9f87"
+          ],
+          "creditos": 0,
+          "requiereCreditos": 0
+        },
+        {
+          "id": "22c1f6a9-637e-4da9-a709-bcfe22569c9e",
+          "nombre": "Auditoria de tecno🗨️",
+          "tipo": "ninguno",
+          "requisitos": [
+            "f47b4725-702c-426f-bbdd-0316c571d872"
+          ],
+          "creditos": 0,
+          "requiereCreditos": 0
+        },
+        {
+          "id": "65fd234d-3ce4-4abd-8af4-02db39792c3b",
+          "nombre": "Gerencia de proy info",
+          "tipo": "ninguno",
+          "requisitos": [
+            "30bdfa16-6ea3-493a-8083-dc4669bd4e86"
+          ],
+          "creditos": 0,
+          "requiereCreditos": 0
+        },
+        {
+          "id": "f8aff64f-74d4-481e-b4f1-d204497a80fe",
+          "nombre": "Análisis y visualización ",
+          "tipo": "ninguno",
+          "requisitos": [
+            "6d842f15-c7c6-4dd3-8e24-f5dba775f080",
+            "96a063cf-c907-4d27-8661-b5fee011f0b2"
+          ],
+          "creditos": 0,
+          "requiereCreditos": 0
+        }
+      ]
+    },
+    {
+      "año": 4,
+      "periodo": "Verano ",
+      "materias": [
+        {
+          "id": "3f9ace20-539e-403d-b751-fedf4c33c163",
+          "nombre": "Trabajo de graduación ",
+          "tipo": "ninguno",
+          "requisitos": [],
+          "creditos": 0,
+          "requiereCreditos": 0
+        },
+        {
+          "id": "8de0d0d9-8512-45bd-8825-251ebf821375",
+          "nombre": "Práctica laboral",
+          "tipo": "ninguno",
+          "requisitos": [],
+          "creditos": 0,
+          "requiereCreditos": 0
+        }
+      ]
+    },
+    {
+      "año": 5,
+      "periodo": "anual",
+      "materias": []
+    },
+    {
+      "año": 5,
+      "periodo": "Semestre 1",
+      "materias": [
+        {
+          "id": "1ce70d19-76f8-4407-a9a3-202d395aa5cc",
+          "nombre": "Tópicos especiales 2",
+          "tipo": "ninguno",
+          "requisitos": [],
+          "creditos": 0,
+          "requiereCreditos": 0
+        },
+        {
+          "id": "fe0a55d6-794b-4103-818e-a3eeee2fd179",
+          "nombre": "Ciencia de datos ",
+          "tipo": "ninguno",
+          "requisitos": [
+            "f8aff64f-74d4-481e-b4f1-d204497a80fe"
+          ],
+          "creditos": 0,
+          "requiereCreditos": 0
+        },
+        {
+          "id": "53cd03f8-354c-40bb-93ea-498399759123",
+          "nombre": "Impl de sist emp",
+          "tipo": "ninguno",
+          "requisitos": [
+            "f8aff64f-74d4-481e-b4f1-d204497a80fe"
+          ],
+          "creditos": 0,
+          "requiereCreditos": 0
+        },
+        {
+          "id": "4e5425af-1932-4d91-9465-0b2e4651d657",
+          "nombre": "🦺👮infor en sist de info",
+          "tipo": "ninguno",
+          "requisitos": [
+            "175af59b-b63b-407e-bd3c-212f6a791c4f"
+          ],
+          "creditos": 0,
+          "requiereCreditos": 0
+        },
+        {
+          "id": "1f52b49c-eda6-412a-84cb-bb1148128963",
+          "nombre": "Política y legislación 🧑‍💻💻",
+          "tipo": "ninguno",
+          "requisitos": [],
+          "creditos": 0,
+          "requiereCreditos": 0
+        },
+        {
+          "id": "a05372c3-3a5d-44ea-a1c1-43782281b958",
+          "nombre": "Trabajo de graduación 2",
+          "tipo": "ninguno",
+          "requisitos": [],
+          "creditos": 0,
+          "requiereCreditos": 0
+        }
+      ]
+    },
+    {
+      "año": 5,
+      "periodo": "Semestre 2",
+      "materias": [
+        {
+          "id": "319465c5-dfab-4706-bcc9-5ca8933d6105",
+          "nombre": "Recogiendo 🥀😭✊? ",
+          "tipo": "ninguno",
+          "requisitos": [],
+          "creditos": 0,
+          "requiereCreditos": 0
+        }
+      ]
+    }
+  ],
+  "estructuraPorAnio": [
+    {
+      "tipo": "semestral",
+      "periodos": [
+        "Semestre 1",
+        "Semestre 2"
+      ]
+    },
+    {
+      "tipo": "semestral",
+      "periodos": [
+        "Semestre 1",
+        "Semestre 2",
+        "Verano "
+      ]
+    },
+    {
+      "tipo": "semestral",
+      "periodos": [
+        "Semestre 1",
+        "Semestre 2"
+      ]
+    },
+    {
+      "tipo": "semestral",
+      "periodos": [
+        "Semestre 1",
+        "Semestre 2",
+        "Verano "
+      ]
+    },
+    {
+      "tipo": "semestral",
+      "periodos": [
+        "Semestre 1",
+        "Semestre 2"
+      ]
+    }
+  ],
+  "cantidadAnios": 5
+}
